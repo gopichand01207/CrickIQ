@@ -1,0 +1,561 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2008,Chennai,2008-05-09,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,normal,0,Punjab Kings,24,0,SA Yadav,"MA Chidambaram Stadium, Chennai",Sundaram Ravi,S. Ravi
+2,2008,Chennai,2008-05-14,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,62,0,MJ McClenaghan,"MA Chidambaram Stadium, Chennai",Virender Sharma,C.K. Nandan
+3,2008,Chennai,2008-04-25,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Royal Challengers Bangalore,8,0,Q de Kock,"MA Chidambaram Stadium, Chennai",S. Ravi,Nitin Menon
+4,2008,Delhi,2008-04-18,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,62,0,PP Shaw,"Arun Jaitley Stadium, Delhi",Paul Reiffel,S. Ravi
+5,2008,Delhi,2008-04-29,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,81,0,P Kumar,"Arun Jaitley Stadium, Delhi",S. Ravi,Bruce Oxenford
+6,2008,Bangalore,2008-05-18,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,1,RD Gaikwad,"M. Chinnaswamy Stadium, Bangalore",K.N. Ananthapadmanabhan,S. Ravi
+7,2008,Sharjah,2008-05-02,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,SA Yadav,Sharjah Cricket Stadium,Nitin Menon,S. Ravi
+8,2008,Hyderabad,2008-04-11,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,3,0,AB de Villiers,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Rod Tucker
+9,2008,Mumbai,2008-05-24,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,56,0,A Nortje,"Wankhede Stadium, Mumbai",Rod Tucker,Bruce Oxenford
+10,2008,Kolkata,2008-05-14,Punjab Kings,Mumbai Indians,Punjab Kings,field,no result,0,,0,0,AM Rahane,"Eden Gardens, Kolkata",Bruce Oxenford,Anil Chaudhary
+11,2008,Sharjah,2008-04-19,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,1,M Vohra,Sharjah Cricket Stadium,Nitin Menon,C.K. Nandan
+12,2008,Chennai,2008-05-27,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore,99,0,T Natarajan,"MA Chidambaram Stadium, Chennai",Sundaram Ravi,K.N. Ananthapadmanabhan
+13,2008,Delhi,2008-04-20,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,80,0,RA Jadeja,"Feroz Shah Kotla, Delhi",Virender Sharma,Anil Chaudhary
+14,2008,Bangalore,2008-04-12,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,normal,0,Mumbai Indians,0,1,T Natarajan,"M. Chinnaswamy Stadium, Bangalore",Bruce Oxenford,K.N. Ananthapadmanabhan
+15,2008,Hyderabad,2008-05-23,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,DJ Bravo,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,C.K. Nandan
+16,2008,Hyderabad,2008-05-20,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,48,0,MW Stoinis,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Paul Reiffel
+17,2008,Delhi,2008-05-06,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,51,0,SA Yadav,"Feroz Shah Kotla, Delhi",Paul Reiffel,K.N. Ananthapadmanabhan
+18,2008,Delhi,2008-04-08,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,55,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Rod Tucker,K.N. Ananthapadmanabhan
+19,2008,Delhi,2008-05-07,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,SP Narine,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Anil Chaudhary
+20,2008,Bangalore,2008-04-26,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,1,,0,0,CH Gayle,"M. Chinnaswamy Stadium, Bangalore",Virender Sharma,Rod Tucker
+21,2008,Delhi,2008-05-24,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Punjab Kings,4,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Virender Sharma,K.N. Ananthapadmanabhan
+22,2008,Chennai,2008-05-21,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,2,K Rabada,"MA Chidambaram Stadium, Chennai",S. Ravi,Bruce Oxenford
+23,2008,Mohali,2008-05-11,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,tie,0,,0,0,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,K.N. Ananthapadmanabhan
+24,2008,Delhi,2008-04-24,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,SA Yadav,"Feroz Shah Kotla, Delhi",Anil Chaudhary,Paul Reiffel
+25,2008,Mohali,2008-04-28,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,85,0,DP Conway,"Punjab Cricket Association Stadium, Mohali",Sundaram Ravi,C.K. Nandan
+26,2008,Jaipur,2008-04-29,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,G Gambhir,"Sawai Mansingh Stadium, Jaipur",Sundaram Ravi,Virender Sharma
+27,2008,Hyderabad,2008-04-22,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,0,3,SK Raina,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,Bruce Oxenford
+28,2008,Bangalore,2008-05-27,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,tie,0,,0,0,DJ Bravo,"M. Chinnaswamy Stadium, Bangalore",Virender Sharma,Bruce Oxenford
+29,2008,Delhi,2008-05-19,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,tie,0,,0,0,YS Chahal,"Arun Jaitley Stadium, Delhi",Nitin Menon,S. Ravi
+30,2008,Kolkata,2008-05-20,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,3,F du Plessis,"Eden Gardens, Kolkata",Bruce Oxenford,C.K. Nandan
+31,2008,Sharjah,2008-05-25,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,,0,0,A Nortje,Sharjah Cricket Stadium,Virender Sharma,Bruce Oxenford
+32,2008,Delhi,2008-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,78,0,MK Pandey,"Feroz Shah Kotla, Delhi",Rod Tucker,S. Ravi
+33,2008,Bangalore,2008-05-24,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,7,PP Shaw,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,Bruce Oxenford
+34,2008,Bangalore,2008-04-15,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,81,0,MW Stoinis,"M. Chinnaswamy Stadium, Bangalore",S. Ravi,Bruce Oxenford
+35,2008,Delhi,2008-04-06,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Rajasthan Royals,16,0,MS Dhoni,"Arun Jaitley Stadium, Delhi",Virender Sharma,Nitin Menon
+36,2009,Mumbai,2009-05-28,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,normal,0,Rajasthan Royals,0,2,Q de Kock,"Wankhede Stadium, Mumbai",Anil Chaudhary,C.K. Nandan
+37,2009,Mumbai,2009-04-26,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,UT Yadav,"Brabourne Stadium, Mumbai",C.K. Nandan,Anil Chaudhary
+38,2009,Mumbai,2009-05-28,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,S Dhawan,"Wankhede Stadium, Mumbai",Rod Tucker,Paul Reiffel
+39,2009,Bangalore,2009-05-17,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,1,Sunrisers Hyderabad,0,6,DJ Bravo,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,Bruce Oxenford
+40,2009,Kolkata,2009-05-01,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,A Nortje,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Paul Reiffel
+41,2009,Bangalore,2009-05-15,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,AM Rahane,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,C.K. Nandan
+42,2009,Mumbai,2009-04-02,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,35,0,DA Warner,"Wankhede Stadium, Mumbai",Sundaram Ravi,Virender Sharma
+43,2009,Chennai,2009-04-01,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings,5,0,Q de Kock,"MA Chidambaram Stadium, Chennai",Virender Sharma,Rod Tucker
+44,2009,Delhi,2009-04-14,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,5,SP Narine,"Arun Jaitley Stadium, Delhi",K.N. Ananthapadmanabhan,Nitin Menon
+45,2009,Kolkata,2009-04-29,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,68,0,RG Sharma,"Eden Gardens, Kolkata",Anil Chaudhary,Paul Reiffel
+46,2009,Bangalore,2009-04-08,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,27,0,MM Ali,"M. Chinnaswamy Stadium, Bangalore",K.N. Ananthapadmanabhan,Nitin Menon
+47,2009,Jaipur,2009-05-10,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,A Nortje,"Sawai Mansingh Stadium, Jaipur",C.K. Nandan,Rod Tucker
+48,2009,Bangalore,2009-04-01,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,15,0,Mohammed Siraj,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,Virender Sharma
+49,2009,Kolkata,2009-04-25,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,3,N Pooran,"Eden Gardens, Kolkata",Sundaram Ravi,Anil Chaudhary
+50,2009,Delhi,2009-04-26,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Punjab Kings,61,0,A Nortje,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,Bruce Oxenford
+51,2009,Chennai,2009-04-30,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,38,0,MS Dhoni,"MA Chidambaram Stadium, Chennai",Nitin Menon,K.N. Ananthapadmanabhan
+52,2009,Kolkata,2009-05-03,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,0,8,Mohammed Siraj,"Eden Gardens, Kolkata",Sundaram Ravi,K.N. Ananthapadmanabhan
+53,2009,Mumbai,2009-05-26,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,7,0,DP Conway,"Wankhede Stadium, Mumbai",Rod Tucker,Paul Reiffel
+54,2009,Bangalore,2009-04-20,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,98,0,MJ McClenaghan,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,Rod Tucker
+55,2009,Jaipur,2009-05-02,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Capitals,4,0,MW Stoinis,"Sawai Mansingh Stadium, Jaipur",Rod Tucker,C.K. Nandan
+56,2009,Mumbai,2009-05-04,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,normal,0,Rajasthan Royals,0,8,CH Gayle,"Brabourne Stadium, Mumbai",C.K. Nandan,S. Ravi
+57,2009,Mohali,2009-05-16,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,11,0,A Nortje,"Punjab Cricket Association Stadium, Mohali",Sundaram Ravi,Paul Reiffel
+58,2009,Bangalore,2009-05-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,66,0,G Gambhir,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,C.K. Nandan
+59,2009,Mumbai,2009-04-03,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,1,RV Uthappa,"Wankhede Stadium, Mumbai",C.K. Nandan,Anil Chaudhary
+60,2009,Hyderabad,2009-04-16,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,16,0,AT Rayudu,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,C.K. Nandan
+61,2009,Delhi,2009-05-18,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,17,0,P Kumar,"Arun Jaitley Stadium, Delhi",Nitin Menon,Virender Sharma
+62,2009,Jaipur,2009-05-19,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,1,Punjab Kings,0,3,B Kumar,"Sawai Mansingh Stadium, Jaipur",Virender Sharma,K.N. Ananthapadmanabhan
+63,2009,Mumbai,2009-04-29,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Chennai Super Kings,0,1,SK Raina,"Wankhede Stadium, Mumbai",Paul Reiffel,S. Ravi
+64,2009,Delhi,2009-05-16,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,AM Rahane,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,K.N. Ananthapadmanabhan
+65,2009,Bangalore,2009-05-24,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,5,0,Mohammed Siraj,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,Virender Sharma
+66,2009,Bangalore,2009-05-20,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,14,0,B Kumar,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,Anil Chaudhary
+67,2009,Kolkata,2009-04-12,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,0,Delhi Capitals,0,2,R Ashwin,"Eden Gardens, Kolkata",C.K. Nandan,Sundaram Ravi
+68,2009,Sharjah,2009-05-26,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,9,UT Yadav,Sharjah Cricket Stadium,Anil Chaudhary,K.N. Ananthapadmanabhan
+69,2009,Mohali,2009-05-15,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,77,0,Harbhajan Singh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Virender Sharma,S. Ravi
+70,2009,Mohali,2009-05-18,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,4,SL Malinga,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Rod Tucker
+71,2010,Sharjah,2010-04-26,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders,7,0,DJ Bravo,Sharjah Cricket Stadium,K.N. Ananthapadmanabhan,Bruce Oxenford
+72,2010,Mohali,2010-04-13,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Kolkata Knight Riders,0,8,MW Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,Rod Tucker
+73,2010,Mohali,2010-05-28,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,72,0,MK Pandey,"Punjab Cricket Association IS Bindra Stadium, Mohali",Bruce Oxenford,Nitin Menon
+74,2010,Mohali,2010-04-29,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,84,0,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Nitin Menon,Rod Tucker
+75,2010,Delhi,2010-04-13,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,41,0,AM Rahane,"Arun Jaitley Stadium, Delhi",S. Ravi,Anil Chaudhary
+76,2010,Hyderabad,2010-05-10,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Delhi Capitals,22,0,RG Sharma,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,K.N. Ananthapadmanabhan
+77,2010,Mohali,2010-04-03,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,62,0,Mohammed Siraj,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Nitin Menon
+78,2010,Jaipur,2010-04-03,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,3,SV Samson,"Sawai Mansingh Stadium, Jaipur",Nitin Menon,Virender Sharma
+79,2010,Mumbai,2010-04-18,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,79,0,KL Rahul,"Wankhede Stadium, Mumbai",Nitin Menon,S. Ravi
+80,2010,Mohali,2010-05-30,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,2,AB de Villiers,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,Rod Tucker
+81,2010,Kolkata,2010-05-10,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,69,0,UT Yadav,"Eden Gardens, Kolkata",Bruce Oxenford,Sundaram Ravi
+82,2010,Sharjah,2010-05-29,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,23,0,RV Uthappa,Sharjah Cricket Stadium,Anil Chaudhary,Paul Reiffel
+83,2010,Mohali,2010-05-24,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,MM Ali,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,S. Ravi
+84,2010,Delhi,2010-05-05,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,no result,1,,0,0,KA Pollard,"Arun Jaitley Stadium, Delhi",Paul Reiffel,C.K. Nandan
+85,2010,Kolkata,2010-04-23,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,DA Warner,"Eden Gardens, Kolkata",Sundaram Ravi,K.N. Ananthapadmanabhan
+86,2010,Bangalore,2010-04-18,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,53,0,AD Russell,"M. Chinnaswamy Stadium, Bangalore",S. Ravi,Sundaram Ravi
+87,2010,Delhi,2010-04-13,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,82,0,DP Conway,"Feroz Shah Kotla, Delhi",C.K. Nandan,Anil Chaudhary
+88,2010,Sharjah,2010-05-28,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,90,0,P Kumar,Sharjah Cricket Stadium,Paul Reiffel,Rod Tucker
+89,2010,Kolkata,2010-04-28,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,MK Pandey,"Eden Gardens, Kolkata",Virender Sharma,Anil Chaudhary
+90,2010,Mohali,2010-04-11,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,27,0,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,Sundaram Ravi
+91,2010,Mohali,2010-04-30,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,8,MM Ali,"Punjab Cricket Association Stadium, Mohali",Sundaram Ravi,Rod Tucker
+92,2010,Delhi,2010-05-25,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,DJ Bravo,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,Nitin Menon
+93,2010,Mumbai,2010-04-18,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,1,Sunrisers Hyderabad,0,5,SA Yadav,"Wankhede Stadium, Mumbai",C.K. Nandan,Sundaram Ravi
+94,2010,Delhi,2010-05-27,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,MK Pandey,"Arun Jaitley Stadium, Delhi",Rod Tucker,S. Ravi
+95,2010,Delhi,2010-05-06,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,YS Chahal,"Arun Jaitley Stadium, Delhi",Nitin Menon,Paul Reiffel
+96,2010,Delhi,2010-04-23,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,69,0,DJ Bravo,"Feroz Shah Kotla, Delhi",Virender Sharma,Anil Chaudhary
+97,2010,Mohali,2010-04-30,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,AB de Villiers,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Sundaram Ravi
+98,2010,Hyderabad,2010-04-14,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,RD Gaikwad,"Rajiv Gandhi International Cricket Stadium, Hyderabad",K.N. Ananthapadmanabhan,Bruce Oxenford
+99,2010,Mohali,2010-05-17,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,7,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Nitin Menon,Bruce Oxenford
+100,2010,Mohali,2010-04-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,SK Raina,"Punjab Cricket Association Stadium, Mohali",C.K. Nandan,S. Ravi
+101,2010,Sharjah,2010-04-04,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Punjab Kings,93,0,RG Sharma,Sharjah Cricket Stadium,C.K. Nandan,Paul Reiffel
+102,2010,Mohali,2010-04-11,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,1,MS Dhoni,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Bruce Oxenford
+103,2010,Hyderabad,2010-05-20,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,5,0,RG Sharma,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,C.K. Nandan
+104,2010,Chennai,2010-05-09,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,81,0,A Nortje,"MA Chidambaram Stadium, Chennai",Nitin Menon,S. Ravi
+105,2010,Mumbai,2010-05-18,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,tie,0,,0,0,G Gambhir,"Wankhede Stadium, Mumbai",S. Ravi,Virender Sharma
+106,2011,Hyderabad,2011-04-11,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders,0,1,R Ashwin,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Anil Chaudhary
+107,2011,Sharjah,2011-04-17,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Rajasthan Royals,51,0,DA Warner,Sharjah Cricket Stadium,K.N. Ananthapadmanabhan,Paul Reiffel
+108,2011,Hyderabad,2011-05-10,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,tie,0,,0,0,K Rabada,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Sundaram Ravi
+109,2011,Mohali,2011-05-02,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,78,0,JM Bairstow,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,Virender Sharma
+110,2011,Hyderabad,2011-05-28,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,DP Conway,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,Anil Chaudhary
+111,2011,Mumbai,2011-04-02,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Delhi Capitals,37,0,SK Raina,"Wankhede Stadium, Mumbai",Anil Chaudhary,Bruce Oxenford
+112,2011,Jaipur,2011-04-08,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,9,PP Shaw,"Sawai Mansingh Stadium, Jaipur",Virender Sharma,S. Ravi
+113,2011,Kolkata,2011-04-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,7,SV Samson,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Rod Tucker
+114,2011,Chennai,2011-04-21,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,4,0,N Pooran,"MA Chidambaram Stadium, Chennai",S. Ravi,Nitin Menon
+115,2011,Bangalore,2011-05-01,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,,0,0,JJ Bumrah,"M. Chinnaswamy Stadium, Bangalore",K.N. Ananthapadmanabhan,Sundaram Ravi
+116,2011,Kolkata,2011-05-19,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,91,0,Mohammed Siraj,"Eden Gardens, Kolkata",Bruce Oxenford,S. Ravi
+117,2011,Bangalore,2011-04-03,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,MW Stoinis,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,S. Ravi
+118,2011,Mohali,2011-05-09,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,0,Delhi Capitals,0,9,N Pooran,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,Nitin Menon
+119,2011,Jaipur,2011-04-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,82,0,KA Pollard,"Sawai Mansingh Stadium, Jaipur",Rod Tucker,K.N. Ananthapadmanabhan
+120,2011,Delhi,2011-04-24,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,A Nortje,"Arun Jaitley Stadium, Delhi",S. Ravi,Anil Chaudhary
+121,2011,Hyderabad,2011-05-23,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Punjab Kings,0,9,SA Yadav,"Rajiv Gandhi International Cricket Stadium, Hyderabad",C.K. Nandan,S. Ravi
+122,2011,Chennai,2011-04-02,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,A Nortje,"MA Chidambaram Stadium, Chennai",Nitin Menon,Sundaram Ravi
+123,2011,Mumbai,2011-05-10,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,63,0,JM Bairstow,"Brabourne Stadium, Mumbai",K.N. Ananthapadmanabhan,Paul Reiffel
+124,2011,Delhi,2011-05-22,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,92,0,RA Jadeja,"Feroz Shah Kotla, Delhi",Bruce Oxenford,S. Ravi
+125,2011,Bangalore,2011-04-02,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,8,SL Malinga,"M. Chinnaswamy Stadium, Bangalore",Bruce Oxenford,Anil Chaudhary
+126,2011,Sharjah,2011-04-11,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,95,0,B Stokes,Sharjah Cricket Stadium,Paul Reiffel,Bruce Oxenford
+127,2011,Mohali,2011-04-05,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Delhi Capitals,47,0,MJ McClenaghan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,Paul Reiffel
+128,2011,Hyderabad,2011-04-21,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,57,0,T Natarajan,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,Anil Chaudhary
+129,2011,Chennai,2011-04-16,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Rajasthan Royals,63,0,MS Dhoni,"MA Chidambaram Stadium, Chennai",Paul Reiffel,Rod Tucker
+130,2011,Delhi,2011-04-12,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,2,MK Pandey,"Arun Jaitley Stadium, Delhi",Nitin Menon,Bruce Oxenford
+131,2011,Delhi,2011-05-29,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,1,Punjab Kings,0,3,M Vohra,"Feroz Shah Kotla, Delhi",Virender Sharma,Anil Chaudhary
+132,2011,Bangalore,2011-04-14,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,75,0,P Kumar,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,K.N. Ananthapadmanabhan
+133,2011,Bangalore,2011-04-22,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Royal Challengers Bangalore,0,5,T Natarajan,"M. Chinnaswamy Stadium, Bangalore",Anil Chaudhary,C.K. Nandan
+134,2011,Chennai,2011-05-04,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,21,0,YS Chahal,"MA Chidambaram Stadium, Chennai",Nitin Menon,Bruce Oxenford
+135,2011,Delhi,2011-05-15,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,0,6,F du Plessis,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Sundaram Ravi
+136,2011,Mohali,2011-05-19,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,43,0,DJ Bravo,"Punjab Cricket Association Stadium, Mohali",Sundaram Ravi,Rod Tucker
+137,2011,Chennai,2011-04-09,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,11,0,AM Rahane,"MA Chidambaram Stadium, Chennai",Paul Reiffel,Anil Chaudhary
+138,2011,Mumbai,2011-05-18,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,Mohammed Siraj,"Wankhede Stadium, Mumbai",K.N. Ananthapadmanabhan,S. Ravi
+139,2011,Chennai,2011-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,2,AM Rahane,"MA Chidambaram Stadium, Chennai",K.N. Ananthapadmanabhan,Rod Tucker
+140,2011,Hyderabad,2011-05-23,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,1,UT Yadav,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,C.K. Nandan
+141,2012,Chennai,2012-05-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,3,M Vohra,"MA Chidambaram Stadium, Chennai",C.K. Nandan,K.N. Ananthapadmanabhan
+142,2012,Mohali,2012-05-30,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,2,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,Sundaram Ravi
+143,2012,Sharjah,2012-05-01,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,B Stokes,Sharjah Cricket Stadium,Rod Tucker,C.K. Nandan
+144,2012,Mumbai,2012-05-07,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,UT Yadav,"Wankhede Stadium, Mumbai",S. Ravi,Sundaram Ravi
+145,2012,Mohali,2012-04-22,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,21,0,AM Rahane,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,Anil Chaudhary
+146,2012,Delhi,2012-04-11,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,5,M Vohra,"Arun Jaitley Stadium, Delhi",Nitin Menon,Sundaram Ravi
+147,2012,Kolkata,2012-05-15,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,12,0,AT Rayudu,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Nitin Menon
+148,2012,Mohali,2012-04-24,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,KL Rahul,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Anil Chaudhary
+149,2012,Kolkata,2012-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,1,Kolkata Knight Riders,96,0,MW Stoinis,"Eden Gardens, Kolkata",Bruce Oxenford,Nitin Menon
+150,2012,Mohali,2012-04-24,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,65,0,JM Bairstow,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Anil Chaudhary
+151,2012,Mohali,2012-05-05,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,3,0,S Dhawan,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,C.K. Nandan
+152,2012,Hyderabad,2012-05-30,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,0,8,Q de Kock,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Anil Chaudhary
+153,2012,Jaipur,2012-05-23,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,74,0,RA Jadeja,"Sawai Mansingh Stadium, Jaipur",Nitin Menon,S. Ravi
+154,2012,Delhi,2012-05-23,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,82,0,B Kumar,"Arun Jaitley Stadium, Delhi",C.K. Nandan,S. Ravi
+155,2012,Mumbai,2012-05-02,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,9,KA Pollard,"Wankhede Stadium, Mumbai",Rod Tucker,Paul Reiffel
+156,2012,Jaipur,2012-05-18,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,Mohammed Siraj,"Sawai Mansingh Stadium, Jaipur",Anil Chaudhary,Sundaram Ravi
+157,2012,Chennai,2012-04-30,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,0,9,Mohammed Siraj,"MA Chidambaram Stadium, Chennai",Rod Tucker,Bruce Oxenford
+158,2012,Delhi,2012-05-06,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,2,N Pooran,"Feroz Shah Kotla, Delhi",Rod Tucker,Sundaram Ravi
+159,2012,Bangalore,2012-05-10,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,1,Chennai Super Kings,44,0,RV Uthappa,"M. Chinnaswamy Stadium, Bangalore",Bruce Oxenford,S. Ravi
+160,2012,Mumbai,2012-05-05,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,MM Ali,"Wankhede Stadium, Mumbai",K.N. Ananthapadmanabhan,Virender Sharma
+161,2012,Mohali,2012-05-29,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,1,Royal Challengers Bangalore,0,7,CH Gayle,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Anil Chaudhary
+162,2012,Mohali,2012-05-03,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,RD Gaikwad,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,Bruce Oxenford
+163,2012,Bangalore,2012-04-28,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Kolkata Knight Riders,11,0,SR Watson,"M. Chinnaswamy Stadium, Bangalore",Anil Chaudhary,K.N. Ananthapadmanabhan
+164,2012,Sharjah,2012-05-11,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,6,B Kumar,Sharjah Cricket Stadium,Nitin Menon,S. Ravi
+165,2012,Delhi,2012-04-13,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,6,DJ Bravo,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Virender Sharma
+166,2012,Mumbai,2012-05-25,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,0,2,SR Watson,"Brabourne Stadium, Mumbai",Anil Chaudhary,Sundaram Ravi
+167,2012,Bangalore,2012-04-20,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,43,0,N Pooran,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,C.K. Nandan
+168,2012,Hyderabad,2012-04-03,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,9,A Nortje,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sundaram Ravi,Anil Chaudhary
+169,2012,Mohali,2012-04-14,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,20,0,DP Conway,"Punjab Cricket Association Stadium, Mohali",Rod Tucker,S. Ravi
+170,2012,Hyderabad,2012-05-15,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Punjab Kings,0,7,KL Rahul,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Sundaram Ravi
+171,2012,Sharjah,2012-05-15,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,1,Delhi Capitals,24,0,SP Narine,Sharjah Cricket Stadium,Virender Sharma,Rod Tucker
+172,2012,Bangalore,2012-04-23,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,RV Uthappa,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,Anil Chaudhary
+173,2012,Sharjah,2012-05-17,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,25,0,Q de Kock,Sharjah Cricket Stadium,S. Ravi,Anil Chaudhary
+174,2012,Delhi,2012-05-29,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,AT Rayudu,"Feroz Shah Kotla, Delhi",Anil Chaudhary,Bruce Oxenford
+175,2012,Delhi,2012-05-21,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,1,Sunrisers Hyderabad,39,0,AT Rayudu,"Feroz Shah Kotla, Delhi",Anil Chaudhary,S. Ravi
+176,2013,Mumbai,2013-04-17,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,1,Chennai Super Kings,0,4,A Nortje,"Brabourne Stadium, Mumbai",Sundaram Ravi,K.N. Ananthapadmanabhan
+177,2013,Delhi,2013-05-25,Punjab Kings,Delhi Capitals,Punjab Kings,field,normal,0,Punjab Kings,0,6,S Dhawan,"Arun Jaitley Stadium, Delhi",Rod Tucker,K.N. Ananthapadmanabhan
+178,2013,Chennai,2013-05-14,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,0,7,F du Plessis,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Paul Reiffel
+179,2013,Chennai,2013-04-12,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,9,SA Yadav,"MA Chidambaram Stadium, Chennai",Virender Sharma,Sundaram Ravi
+180,2013,Mumbai,2013-04-23,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,AB de Villiers,"Brabourne Stadium, Mumbai",Paul Reiffel,Virender Sharma
+181,2013,Hyderabad,2013-04-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,B Stokes,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Paul Reiffel,Anil Chaudhary
+182,2013,Kolkata,2013-05-05,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,48,0,AD Russell,"Eden Gardens, Kolkata",Sundaram Ravi,Paul Reiffel
+183,2013,Hyderabad,2013-05-29,Mumbai Indians,Punjab Kings,Punjab Kings,bat,normal,0,Mumbai Indians,0,4,A Nortje,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Bruce Oxenford
+184,2013,Mohali,2013-05-02,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,28,0,MW Stoinis,"Punjab Cricket Association Stadium, Mohali",K.N. Ananthapadmanabhan,Anil Chaudhary
+185,2013,Sharjah,2013-05-20,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,5,T Natarajan,Sharjah Cricket Stadium,Rod Tucker,K.N. Ananthapadmanabhan
+186,2013,Delhi,2013-05-18,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,B Stokes,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,C.K. Nandan
+187,2013,Kolkata,2013-05-30,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Royal Challengers Bangalore,60,0,SP Narine,"Eden Gardens, Kolkata",C.K. Nandan,Bruce Oxenford
+188,2013,Kolkata,2013-04-04,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,PP Shaw,"Eden Gardens, Kolkata",Virender Sharma,Sundaram Ravi
+189,2013,Jaipur,2013-05-17,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,21,0,N Pooran,"Sawai Mansingh Stadium, Jaipur",Virender Sharma,S. Ravi
+190,2013,Jaipur,2013-05-09,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,DP Conway,"Sawai Mansingh Stadium, Jaipur",Anil Chaudhary,C.K. Nandan
+191,2013,Kolkata,2013-04-23,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Chennai Super Kings,22,0,DJ Bravo,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Nitin Menon
+192,2013,Mumbai,2013-05-12,Mumbai Indians,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,1,SV Samson,"Wankhede Stadium, Mumbai",Bruce Oxenford,C.K. Nandan
+193,2013,Jaipur,2013-05-04,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,0,5,A Nortje,"Sawai Mansingh Stadium, Jaipur",C.K. Nandan,S. Ravi
+194,2013,Delhi,2013-04-25,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,0,8,V Kohli,"Arun Jaitley Stadium, Delhi",Paul Reiffel,K.N. Ananthapadmanabhan
+195,2013,Mumbai,2013-04-19,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,1,Delhi Capitals,48,0,SL Malinga,"Brabourne Stadium, Mumbai",Anil Chaudhary,S. Ravi
+196,2013,Sharjah,2013-04-18,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Punjab Kings,0,8,MS Dhoni,Sharjah Cricket Stadium,K.N. Ananthapadmanabhan,Rod Tucker
+197,2013,Chennai,2013-05-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,1,R Ashwin,"MA Chidambaram Stadium, Chennai",S. Ravi,Rod Tucker
+198,2013,Delhi,2013-04-23,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,0,6,SP Narine,"Arun Jaitley Stadium, Delhi",K.N. Ananthapadmanabhan,Nitin Menon
+199,2013,Delhi,2013-04-16,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,38,0,Mohammed Siraj,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Sundaram Ravi
+200,2013,Jaipur,2013-04-27,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,normal,0,Punjab Kings,84,0,R Ashwin,"Sawai Mansingh Stadium, Jaipur",Anil Chaudhary,C.K. Nandan
+201,2013,Kolkata,2013-04-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,no result,0,,0,0,F du Plessis,"Eden Gardens, Kolkata",Anil Chaudhary,Bruce Oxenford
+202,2013,Sharjah,2013-05-01,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,normal,0,Delhi Capitals,75,0,PP Shaw,Sharjah Cricket Stadium,Bruce Oxenford,C.K. Nandan
+203,2013,Mumbai,2013-05-13,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Punjab Kings,43,0,RV Uthappa,"Brabourne Stadium, Mumbai",K.N. Ananthapadmanabhan,Bruce Oxenford
+204,2013,Sharjah,2013-05-29,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,2,F du Plessis,Sharjah Cricket Stadium,C.K. Nandan,Virender Sharma
+205,2013,Mumbai,2013-04-22,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,1,Delhi Capitals,0,4,T Natarajan,"Brabourne Stadium, Mumbai",Nitin Menon,K.N. Ananthapadmanabhan
+206,2013,Mohali,2013-04-13,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,SR Watson,"Punjab Cricket Association Stadium, Mohali",Anil Chaudhary,Virender Sharma
+207,2013,Delhi,2013-05-17,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,tie,0,,0,0,JP Faulkner,"Arun Jaitley Stadium, Delhi",Virender Sharma,S. Ravi
+208,2013,Bangalore,2013-04-29,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,0,4,MM Ali,"M. Chinnaswamy Stadium, Bangalore",Virender Sharma,Nitin Menon
+209,2013,Delhi,2013-04-28,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,DP Conway,"Arun Jaitley Stadium, Delhi",Sundaram Ravi,Nitin Menon
+210,2013,Chennai,2013-04-17,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,2,CH Gayle,"MA Chidambaram Stadium, Chennai",S. Ravi,Rod Tucker
+211,2014,Hyderabad,2014-04-21,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,55,0,MS Dhoni,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Paul Reiffel,Anil Chaudhary
+212,2014,Mohali,2014-04-26,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,8,HH Pandya,"Punjab Cricket Association IS Bindra Stadium, Mohali",Paul Reiffel,Bruce Oxenford
+213,2014,Bangalore,2014-05-05,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Punjab Kings,0,9,MM Ali,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,S. Ravi
+214,2014,Bangalore,2014-05-24,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,A Nortje,"M. Chinnaswamy Stadium, Bangalore",S. Ravi,Rod Tucker
+215,2014,Mohali,2014-05-16,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,73,0,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Anil Chaudhary
+216,2014,Delhi,2014-05-17,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,8,0,B Stokes,"Arun Jaitley Stadium, Delhi",Sundaram Ravi,Bruce Oxenford
+217,2014,Kolkata,2014-04-17,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,3,SR Watson,"Eden Gardens, Kolkata",Paul Reiffel,C.K. Nandan
+218,2014,Kolkata,2014-04-19,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,68,0,RD Gaikwad,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Virender Sharma
+219,2014,Delhi,2014-05-28,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,no result,0,,0,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Rod Tucker,Anil Chaudhary
+220,2014,Jaipur,2014-04-03,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,0,3,B Stokes,"Sawai Mansingh Stadium, Jaipur",Nitin Menon,Rod Tucker
+221,2014,Kolkata,2014-04-20,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,PP Shaw,"Eden Gardens, Kolkata",Bruce Oxenford,Sundaram Ravi
+222,2014,Mohali,2014-04-25,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,0,5,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,Virender Sharma
+223,2014,Sharjah,2014-05-25,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,normal,0,Punjab Kings,0,9,T Natarajan,Sharjah Cricket Stadium,Nitin Menon,Anil Chaudhary
+224,2014,Hyderabad,2014-04-13,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Punjab Kings,0,2,JJ Bumrah,"Rajiv Gandhi International Cricket Stadium, Hyderabad",C.K. Nandan,Anil Chaudhary
+225,2014,Kolkata,2014-05-24,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals,81,0,P Kumar,"Eden Gardens, Kolkata",C.K. Nandan,Anil Chaudhary
+226,2014,Sharjah,2014-05-05,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,70,0,K Rabada,Sharjah Cricket Stadium,Anil Chaudhary,Bruce Oxenford
+227,2014,Mumbai,2014-05-13,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,KL Rahul,"Wankhede Stadium, Mumbai",Sundaram Ravi,Bruce Oxenford
+228,2014,Mumbai,2014-05-18,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,96,0,JJ Bumrah,"Brabourne Stadium, Mumbai",Virender Sharma,C.K. Nandan
+229,2014,Mohali,2014-05-14,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Kolkata Knight Riders,0,7,B Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",C.K. Nandan,S. Ravi
+230,2014,Jaipur,2014-04-06,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,67,0,AM Rahane,"Sawai Mansingh Stadium, Jaipur",Paul Reiffel,Virender Sharma
+231,2014,Mumbai,2014-04-06,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,7,F du Plessis,"Wankhede Stadium, Mumbai",Rod Tucker,C.K. Nandan
+232,2014,Jaipur,2014-05-22,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,HH Pandya,"Sawai Mansingh Stadium, Jaipur",Rod Tucker,Nitin Menon
+233,2014,Kolkata,2014-04-11,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,2,AM Rahane,"Eden Gardens, Kolkata",Virender Sharma,Nitin Menon
+234,2014,Delhi,2014-05-14,Punjab Kings,Delhi Capitals,Punjab Kings,bat,normal,0,Punjab Kings,79,0,KL Rahul,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,Bruce Oxenford
+235,2014,Mohali,2014-04-17,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,R Ashwin,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Rod Tucker
+236,2014,Chennai,2014-05-25,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,DP Conway,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,K.N. Ananthapadmanabhan
+237,2014,Kolkata,2014-04-19,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,0,5,MS Dhoni,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Nitin Menon
+238,2014,Mumbai,2014-05-05,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,SL Malinga,"Wankhede Stadium, Mumbai",C.K. Nandan,Anil Chaudhary
+239,2014,Mumbai,2014-04-07,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,MM Patel,"Brabourne Stadium, Mumbai",Nitin Menon,Sundaram Ravi
+240,2014,Mohali,2014-04-27,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,10,0,MM Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,C.K. Nandan
+241,2014,Delhi,2014-05-20,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,10,0,B Kumar,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Rod Tucker
+242,2014,Mumbai,2014-04-02,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,N Pooran,"Brabourne Stadium, Mumbai",Nitin Menon,S. Ravi
+243,2014,Mohali,2014-04-16,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,0,5,PP Shaw,"Punjab Cricket Association Stadium, Mohali",Bruce Oxenford,Rod Tucker
+244,2014,Sharjah,2014-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,1,Royal Challengers Bangalore,79,0,DJ Bravo,Sharjah Cricket Stadium,Anil Chaudhary,Sundaram Ravi
+245,2014,Sharjah,2014-04-09,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,87,0,Harbhajan Singh,Sharjah Cricket Stadium,Sundaram Ravi,Bruce Oxenford
+246,2015,Sharjah,2015-05-23,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,MJ McClenaghan,Sharjah Cricket Stadium,Rod Tucker,Nitin Menon
+247,2015,Jaipur,2015-05-13,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Delhi Capitals,0,3,DP Conway,"Sawai Mansingh Stadium, Jaipur",Anil Chaudhary,Nitin Menon
+248,2015,Mohali,2015-04-14,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians,42,0,V Kohli,"Punjab Cricket Association IS Bindra Stadium, Mohali",Bruce Oxenford,Anil Chaudhary
+249,2015,Kolkata,2015-04-26,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,tie,0,,0,0,MS Dhoni,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Rod Tucker
+250,2015,Chennai,2015-05-15,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,normal,0,Delhi Capitals,78,0,HH Pandya,"MA Chidambaram Stadium, Chennai",Paul Reiffel,Sundaram Ravi
+251,2015,Jaipur,2015-05-29,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,41,0,RV Uthappa,"Sawai Mansingh Stadium, Jaipur",Rod Tucker,Bruce Oxenford
+252,2015,Delhi,2015-05-04,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Rajasthan Royals,8,0,SV Samson,"Arun Jaitley Stadium, Delhi",Rod Tucker,Nitin Menon
+253,2015,Sharjah,2015-05-29,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,RG Sharma,Sharjah Cricket Stadium,Virender Sharma,Bruce Oxenford
+254,2015,Mumbai,2015-04-23,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,42,0,RV Uthappa,"Wankhede Stadium, Mumbai",Anil Chaudhary,Sundaram Ravi
+255,2015,Bangalore,2015-05-13,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Rajasthan Royals,0,6,DJ Bravo,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,Virender Sharma
+256,2015,Mohali,2015-04-22,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,28,0,A Nortje,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,Bruce Oxenford
+257,2015,Chennai,2015-05-29,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,38,0,SK Raina,"MA Chidambaram Stadium, Chennai",Rod Tucker,Anil Chaudhary
+258,2015,Kolkata,2015-04-23,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Delhi Capitals,41,0,N Pooran,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,S. Ravi
+259,2015,Sharjah,2015-05-30,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Royal Challengers Bangalore,62,0,Q de Kock,Sharjah Cricket Stadium,Paul Reiffel,Anil Chaudhary
+260,2015,Mohali,2015-05-16,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Punjab Kings,0,9,F du Plessis,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Nitin Menon
+261,2015,Hyderabad,2015-05-25,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,43,0,SA Yadav,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,Nitin Menon
+262,2015,Hyderabad,2015-04-19,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,SA Yadav,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sundaram Ravi,Bruce Oxenford
+263,2015,Delhi,2015-05-11,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Punjab Kings,21,0,Harbhajan Singh,"Feroz Shah Kotla, Delhi",Nitin Menon,C.K. Nandan
+264,2015,Hyderabad,2015-04-20,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,49,0,MM Ali,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Bruce Oxenford
+265,2015,Mumbai,2015-04-06,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,19,0,A Nortje,"Brabourne Stadium, Mumbai",Sundaram Ravi,Anil Chaudhary
+266,2015,Mumbai,2015-05-13,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Rajasthan Royals,19,0,B Kumar,"Wankhede Stadium, Mumbai",S. Ravi,C.K. Nandan
+267,2015,Mohali,2015-05-28,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Punjab Kings,95,0,SP Narine,"Punjab Cricket Association Stadium, Mohali",Anil Chaudhary,Virender Sharma
+268,2015,Delhi,2015-04-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,67,0,HH Pandya,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Paul Reiffel
+269,2015,Hyderabad,2015-05-07,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,MW Stoinis,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sundaram Ravi,Virender Sharma
+270,2015,Bangalore,2015-05-15,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,4,SV Samson,"M. Chinnaswamy Stadium, Bangalore",Anil Chaudhary,Virender Sharma
+271,2015,Mumbai,2015-04-14,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,72,0,M Vohra,"Brabourne Stadium, Mumbai",Sundaram Ravi,Virender Sharma
+272,2015,Mohali,2015-04-25,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,2,SK Raina,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,Anil Chaudhary
+273,2015,Kolkata,2015-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,3,UT Yadav,"Eden Gardens, Kolkata",Rod Tucker,Sundaram Ravi
+274,2015,Chennai,2015-05-03,Punjab Kings,Delhi Capitals,Punjab Kings,field,normal,0,Delhi Capitals,47,0,Q de Kock,"MA Chidambaram Stadium, Chennai",Bruce Oxenford,S. Ravi
+275,2015,Delhi,2015-04-15,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,0,8,SL Malinga,"Arun Jaitley Stadium, Delhi",Rod Tucker,S. Ravi
+276,2015,Delhi,2015-05-04,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,89,0,HH Pandya,"Arun Jaitley Stadium, Delhi",C.K. Nandan,Paul Reiffel
+277,2015,Chennai,2015-04-17,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,AD Russell,"MA Chidambaram Stadium, Chennai",Bruce Oxenford,C.K. Nandan
+278,2015,Mumbai,2015-04-22,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,4,B Stokes,"Brabourne Stadium, Mumbai",Bruce Oxenford,Virender Sharma
+279,2015,Hyderabad,2015-04-24,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,18,0,HH Pandya,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Sundaram Ravi
+280,2015,Delhi,2015-05-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,3,AB de Villiers,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,C.K. Nandan
+281,2016,Jaipur,2016-04-19,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,41,0,B Kumar,"Sawai Mansingh Stadium, Jaipur",K.N. Ananthapadmanabhan,C.K. Nandan
+282,2016,Mumbai,2016-04-22,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,37,0,V Kohli,"Wankhede Stadium, Mumbai",Bruce Oxenford,S. Ravi
+283,2016,Hyderabad,2016-05-13,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,16,0,SL Malinga,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Paul Reiffel,S. Ravi
+284,2016,Hyderabad,2016-05-11,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,tie,0,,0,0,JP Faulkner,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Anil Chaudhary,Virender Sharma
+285,2016,Hyderabad,2016-04-02,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,23,0,SK Raina,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Sundaram Ravi
+286,2016,Mohali,2016-04-10,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,51,0,DJ Bravo,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Virender Sharma
+287,2016,Delhi,2016-04-25,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Punjab Kings,0,8,MK Pandey,"Arun Jaitley Stadium, Delhi",Sundaram Ravi,S. Ravi
+288,2016,Jaipur,2016-04-09,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,UT Yadav,"Sawai Mansingh Stadium, Jaipur",S. Ravi,Sundaram Ravi
+289,2016,Hyderabad,2016-04-29,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,normal,0,Delhi Capitals,0,5,SV Samson,"Rajiv Gandhi International Cricket Stadium, Hyderabad",K.N. Ananthapadmanabhan,S. Ravi
+290,2016,Hyderabad,2016-05-23,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,1,RD Gaikwad,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Anil Chaudhary
+291,2016,Mumbai,2016-04-01,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,1,Royal Challengers Bangalore,0,7,RD Gaikwad,"Wankhede Stadium, Mumbai",Nitin Menon,Paul Reiffel
+292,2016,Delhi,2016-05-14,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,1,Sunrisers Hyderabad,0,4,RG Sharma,"Arun Jaitley Stadium, Delhi",Rod Tucker,K.N. Ananthapadmanabhan
+293,2016,Mumbai,2016-04-03,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,22,0,CH Gayle,"Brabourne Stadium, Mumbai",Anil Chaudhary,Sundaram Ravi
+294,2016,Kolkata,2016-05-07,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,3,AT Rayudu,"Eden Gardens, Kolkata",Sundaram Ravi,Paul Reiffel
+295,2016,Chennai,2016-05-25,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Mumbai Indians,17,0,JJ Bumrah,"MA Chidambaram Stadium, Chennai",S. Ravi,Sundaram Ravi
+296,2016,Mohali,2016-04-04,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Delhi Capitals,0,9,G Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,Paul Reiffel
+297,2016,Delhi,2016-04-12,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,7,0,V Kohli,"Feroz Shah Kotla, Delhi",Nitin Menon,Rod Tucker
+298,2016,Delhi,2016-05-28,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,DJ Bravo,"Arun Jaitley Stadium, Delhi",K.N. Ananthapadmanabhan,Nitin Menon
+299,2016,Delhi,2016-05-22,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,7,DJ Bravo,"Arun Jaitley Stadium, Delhi",Virender Sharma,Sundaram Ravi
+300,2016,Mohali,2016-05-24,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,tie,0,,0,0,DJ Bravo,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Bruce Oxenford
+301,2016,Kolkata,2016-05-28,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,30,0,S Dhawan,"Eden Gardens, Kolkata",Nitin Menon,K.N. Ananthapadmanabhan
+302,2016,Mohali,2016-04-28,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,40,0,G Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,Paul Reiffel
+303,2016,Bangalore,2016-05-20,Mumbai Indians,Punjab Kings,Punjab Kings,field,normal,0,Mumbai Indians,26,0,DP Conway,"M. Chinnaswamy Stadium, Bangalore",Anil Chaudhary,Bruce Oxenford
+304,2016,Chennai,2016-05-12,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,56,0,DA Warner,"MA Chidambaram Stadium, Chennai",Nitin Menon,Sundaram Ravi
+305,2016,Kolkata,2016-05-23,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Chennai Super Kings,83,0,RV Uthappa,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,S. Ravi
+306,2016,Mumbai,2016-04-09,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,0,9,JP Faulkner,"Brabourne Stadium, Mumbai",Sundaram Ravi,Bruce Oxenford
+307,2016,Hyderabad,2016-04-24,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Punjab Kings,71,0,RG Sharma,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,C.K. Nandan
+308,2016,Kolkata,2016-05-19,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,tie,0,,0,0,A Nortje,"Eden Gardens, Kolkata",K.N. Ananthapadmanabhan,Bruce Oxenford
+309,2016,Chennai,2016-04-04,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,37,0,HH Pandya,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Nitin Menon
+310,2016,Jaipur,2016-05-14,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,10,0,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Virender Sharma,Sundaram Ravi
+311,2016,Mohali,2016-04-30,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders,0,3,K Rabada,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,Bruce Oxenford
+312,2016,Mohali,2016-04-10,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,4,YS Chahal,"Punjab Cricket Association Stadium, Mohali",C.K. Nandan,Paul Reiffel
+313,2016,Mohali,2016-05-03,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,55,0,MJ McClenaghan,"Punjab Cricket Association Stadium, Mohali",Anil Chaudhary,Bruce Oxenford
+314,2016,Mumbai,2016-04-23,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Delhi Capitals,73,0,B Stokes,"Wankhede Stadium, Mumbai",Bruce Oxenford,Rod Tucker
+315,2016,Delhi,2016-04-17,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,3,Q de Kock,"Arun Jaitley Stadium, Delhi",Paul Reiffel,K.N. Ananthapadmanabhan
+316,2017,Mumbai,2017-04-23,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,85,0,UT Yadav,"Wankhede Stadium, Mumbai",K.N. Ananthapadmanabhan,Nitin Menon
+317,2017,Chennai,2017-05-19,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,72,0,P Kumar,"MA Chidambaram Stadium, Chennai",Sundaram Ravi,K.N. Ananthapadmanabhan
+318,2017,Jaipur,2017-04-22,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,12,0,DA Warner,"Sawai Mansingh Stadium, Jaipur",Nitin Menon,Paul Reiffel
+319,2017,Jaipur,2017-05-14,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,0,6,B Kumar,"Sawai Mansingh Stadium, Jaipur",Nitin Menon,Rod Tucker
+320,2017,Mohali,2017-05-21,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,AB de Villiers,"Punjab Cricket Association Stadium, Mohali",Nitin Menon,Virender Sharma
+321,2017,Mohali,2017-04-24,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,8,MK Pandey,"Punjab Cricket Association Stadium, Mohali",Bruce Oxenford,Rod Tucker
+322,2017,Mohali,2017-04-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,58,0,N Pooran,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,Anil Chaudhary
+323,2017,Jaipur,2017-04-10,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Chennai Super Kings,10,0,B Kumar,"Sawai Mansingh Stadium, Jaipur",K.N. Ananthapadmanabhan,S. Ravi
+324,2017,Mohali,2017-04-25,Punjab Kings,Delhi Capitals,Punjab Kings,bat,normal,0,Delhi Capitals,0,6,JM Bairstow,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Sundaram Ravi
+325,2017,Mumbai,2017-04-05,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,44,0,DP Conway,"Brabourne Stadium, Mumbai",Sundaram Ravi,Rod Tucker
+326,2017,Hyderabad,2017-04-16,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Capitals,26,0,MM Patel,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Rod Tucker
+327,2017,Kolkata,2017-05-01,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,1,AM Rahane,"Eden Gardens, Kolkata",Bruce Oxenford,Nitin Menon
+328,2017,Mumbai,2017-04-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,2,MJ McClenaghan,"Brabourne Stadium, Mumbai",Sundaram Ravi,S. Ravi
+329,2017,Bangalore,2017-04-10,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,61,0,UT Yadav,"M. Chinnaswamy Stadium, Bangalore",Anil Chaudhary,Paul Reiffel
+330,2017,Sharjah,2017-05-22,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,9,SR Watson,Sharjah Cricket Stadium,C.K. Nandan,Nitin Menon
+331,2017,Mohali,2017-05-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Sunrisers Hyderabad,0,4,UT Yadav,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Rod Tucker
+332,2017,Mohali,2017-04-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,92,0,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",Virender Sharma,Bruce Oxenford
+333,2017,Bangalore,2017-04-25,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Rajasthan Royals,0,6,RG Sharma,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,Rod Tucker
+334,2017,Sharjah,2017-05-18,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Chennai Super Kings,55,0,N Pooran,Sharjah Cricket Stadium,Virender Sharma,Sundaram Ravi
+335,2017,Sharjah,2017-05-21,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,10,0,F du Plessis,Sharjah Cricket Stadium,Bruce Oxenford,Nitin Menon
+336,2017,Mohali,2017-04-26,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Sundaram Ravi
+337,2017,Mumbai,2017-05-21,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,9,SA Yadav,"Brabourne Stadium, Mumbai",S. Ravi,Virender Sharma
+338,2017,Hyderabad,2017-05-30,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,no result,0,,0,0,Mohammed Siraj,"Rajiv Gandhi International Cricket Stadium, Hyderabad",C.K. Nandan,Virender Sharma
+339,2017,Mumbai,2017-04-14,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Punjab Kings,9,0,DJ Bravo,"Wankhede Stadium, Mumbai",S. Ravi,Paul Reiffel
+340,2017,Chennai,2017-04-15,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,0,3,K Rabada,"MA Chidambaram Stadium, Chennai",K.N. Ananthapadmanabhan,S. Ravi
+341,2017,Delhi,2017-05-08,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,no result,0,,0,0,MM Patel,"Feroz Shah Kotla, Delhi",Virender Sharma,Paul Reiffel
+342,2017,Kolkata,2017-04-09,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,2,AD Russell,"Eden Gardens, Kolkata",Nitin Menon,S. Ravi
+343,2017,Jaipur,2017-05-26,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,no result,0,,0,0,N Pooran,"Sawai Mansingh Stadium, Jaipur",K.N. Ananthapadmanabhan,Virender Sharma
+344,2017,Mumbai,2017-05-04,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,0,8,Mohammed Siraj,"Brabourne Stadium, Mumbai",Anil Chaudhary,Sundaram Ravi
+345,2017,Mumbai,2017-04-27,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,83,0,Mohammed Siraj,"Wankhede Stadium, Mumbai",S. Ravi,Bruce Oxenford
+346,2017,Mumbai,2017-04-05,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,RD Gaikwad,"Wankhede Stadium, Mumbai",Paul Reiffel,S. Ravi
+347,2017,Mohali,2017-04-18,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Sunrisers Hyderabad,0,7,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",Virender Sharma,Bruce Oxenford
+348,2017,Jaipur,2017-04-10,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Punjab Kings,3,0,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Paul Reiffel,Rod Tucker
+349,2017,Delhi,2017-04-11,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,P Kumar,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,K.N. Ananthapadmanabhan
+350,2017,Mumbai,2017-04-10,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Kolkata Knight Riders,0,9,SK Raina,"Wankhede Stadium, Mumbai",Bruce Oxenford,S. Ravi
+351,2018,Mohali,2018-05-12,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,RG Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,C.K. Nandan
+352,2018,Hyderabad,2018-04-27,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Delhi Capitals,0,2,R Ashwin,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Anil Chaudhary
+353,2018,Mohali,2018-04-20,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,3,T Natarajan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,Nitin Menon
+354,2018,Mohali,2018-05-27,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,DJ Bravo,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,K.N. Ananthapadmanabhan
+355,2018,Mumbai,2018-05-20,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Rajasthan Royals,0,1,KL Rahul,"Brabourne Stadium, Mumbai",Bruce Oxenford,C.K. Nandan
+356,2018,Chennai,2018-04-14,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings,30,0,Harbhajan Singh,"MA Chidambaram Stadium, Chennai",S. Ravi,K.N. Ananthapadmanabhan
+357,2018,Hyderabad,2018-05-24,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,DJ Bravo,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Paul Reiffel,Virender Sharma
+358,2018,Hyderabad,2018-05-11,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,97,0,V Kohli,"Rajiv Gandhi International Cricket Stadium, Hyderabad",K.N. Ananthapadmanabhan,Nitin Menon
+359,2018,Mumbai,2018-04-29,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,MK Pandey,"Brabourne Stadium, Mumbai",Nitin Menon,Virender Sharma
+360,2018,Bangalore,2018-05-23,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Punjab Kings,0,5,JP Faulkner,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,S. Ravi
+361,2018,Kolkata,2018-04-23,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,2,RV Uthappa,"Eden Gardens, Kolkata",Anil Chaudhary,Nitin Menon
+362,2018,Chennai,2018-04-21,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,0,9,P Kumar,"MA Chidambaram Stadium, Chennai",K.N. Ananthapadmanabhan,Sundaram Ravi
+363,2018,Kolkata,2018-04-06,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,N Pooran,"Eden Gardens, Kolkata",Nitin Menon,Sundaram Ravi
+364,2018,Jaipur,2018-04-01,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,93,0,M Vohra,"Sawai Mansingh Stadium, Jaipur",C.K. Nandan,Paul Reiffel
+365,2018,Mumbai,2018-04-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,YS Chahal,"Brabourne Stadium, Mumbai",Bruce Oxenford,Nitin Menon
+366,2018,Jaipur,2018-05-12,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,0,3,G Gambhir,"Sawai Mansingh Stadium, Jaipur",Paul Reiffel,S. Ravi
+367,2018,Jaipur,2018-04-25,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,no result,0,,0,0,SV Samson,"Sawai Mansingh Stadium, Jaipur",Rod Tucker,Virender Sharma
+368,2018,Delhi,2018-05-13,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,0,7,R Ashwin,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,Bruce Oxenford
+369,2018,Bangalore,2018-05-13,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,normal,0,Punjab Kings,71,0,MM Ali,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,Nitin Menon
+370,2018,Kolkata,2018-05-05,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,4,DJ Bravo,"Eden Gardens, Kolkata",S. Ravi,Virender Sharma
+371,2018,Mumbai,2018-04-06,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,9,A Nortje,"Wankhede Stadium, Mumbai",Rod Tucker,S. Ravi
+372,2018,Mumbai,2018-04-30,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,0,8,MW Stoinis,"Wankhede Stadium, Mumbai",K.N. Ananthapadmanabhan,Sundaram Ravi
+373,2018,Mumbai,2018-05-04,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,MM Ali,"Wankhede Stadium, Mumbai",Anil Chaudhary,C.K. Nandan
+374,2018,Kolkata,2018-05-15,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,7,SL Malinga,"Eden Gardens, Kolkata",Rod Tucker,Sundaram Ravi
+375,2018,Mohali,2018-05-16,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,2,DJ Bravo,"Punjab Cricket Association Stadium, Mohali",Bruce Oxenford,Anil Chaudhary
+376,2018,Mumbai,2018-04-26,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,0,7,JP Faulkner,"Brabourne Stadium, Mumbai",Rod Tucker,Sundaram Ravi
+377,2018,Sharjah,2018-04-16,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,70,0,MM Ali,Sharjah Cricket Stadium,K.N. Ananthapadmanabhan,Nitin Menon
+378,2018,Delhi,2018-05-07,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,KL Rahul,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,Sundaram Ravi
+379,2018,Kolkata,2018-05-29,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,AD Russell,"Eden Gardens, Kolkata",Bruce Oxenford,Rod Tucker
+380,2018,Mumbai,2018-04-18,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,A Nortje,"Wankhede Stadium, Mumbai",S. Ravi,Bruce Oxenford
+381,2018,Hyderabad,2018-04-07,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,N Pooran,"Rajiv Gandhi International Cricket Stadium, Hyderabad",C.K. Nandan,Nitin Menon
+382,2018,Mohali,2018-04-15,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,no result,0,,0,0,SV Samson,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,Paul Reiffel
+383,2018,Mohali,2018-04-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,37,0,HH Pandya,"Punjab Cricket Association IS Bindra Stadium, Mohali",C.K. Nandan,Rod Tucker
+384,2018,Bangalore,2018-04-01,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,RD Gaikwad,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,S. Ravi
+385,2018,Delhi,2018-04-21,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,46,0,MM Ali,"Arun Jaitley Stadium, Delhi",K.N. Ananthapadmanabhan,C.K. Nandan
+386,2019,Chennai,2019-05-30,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,8,Mohammed Siraj,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Sundaram Ravi
+387,2019,Delhi,2019-04-17,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,CH Gayle,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,S. Ravi
+388,2019,Mohali,2019-05-11,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,MK Pandey,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,Nitin Menon
+389,2019,Sharjah,2019-04-13,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,3,0,JJ Bumrah,Sharjah Cricket Stadium,S. Ravi,K.N. Ananthapadmanabhan
+390,2019,Bangalore,2019-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,42,0,AM Rahane,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,Virender Sharma
+391,2019,Mohali,2019-04-24,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,24,0,JJ Bumrah,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,C.K. Nandan
+392,2019,Jaipur,2019-05-05,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,59,0,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Sundaram Ravi,C.K. Nandan
+393,2019,Mohali,2019-05-26,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,SP Narine,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Nitin Menon
+394,2019,Jaipur,2019-04-09,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Rajasthan Royals,64,0,SA Yadav,"Sawai Mansingh Stadium, Jaipur",K.N. Ananthapadmanabhan,Bruce Oxenford
+395,2019,Chennai,2019-04-10,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,58,0,G Gambhir,"MA Chidambaram Stadium, Chennai",S. Ravi,Rod Tucker
+396,2019,Sharjah,2019-05-17,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Kolkata Knight Riders,0,9,AD Russell,Sharjah Cricket Stadium,Rod Tucker,Paul Reiffel
+397,2019,Mohali,2019-05-01,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,85,0,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali",C.K. Nandan,Paul Reiffel
+398,2019,Mumbai,2019-04-10,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,normal,0,Kolkata Knight Riders,0,9,MK Pandey,"Brabourne Stadium, Mumbai",Sundaram Ravi,S. Ravi
+399,2019,Sharjah,2019-04-05,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,0,3,JJ Bumrah,Sharjah Cricket Stadium,C.K. Nandan,Virender Sharma
+400,2019,Hyderabad,2019-05-01,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,CH Gayle,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,S. Ravi
+401,2019,Sharjah,2019-04-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,38,0,AM Rahane,Sharjah Cricket Stadium,Virender Sharma,S. Ravi
+402,2019,Chennai,2019-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Sunrisers Hyderabad,0,1,A Nortje,"MA Chidambaram Stadium, Chennai",K.N. Ananthapadmanabhan,Virender Sharma
+403,2019,Kolkata,2019-05-12,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,B Kumar,"Eden Gardens, Kolkata",Paul Reiffel,S. Ravi
+404,2019,Mumbai,2019-05-11,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,AM Rahane,"Brabourne Stadium, Mumbai",Bruce Oxenford,Rod Tucker
+405,2019,Mohali,2019-05-28,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,67,0,SA Yadav,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,Anil Chaudhary
+406,2019,Bangalore,2019-04-11,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,91,0,MM Ali,"M. Chinnaswamy Stadium, Bangalore",S. Ravi,Paul Reiffel
+407,2019,Jaipur,2019-05-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,77,0,G Gambhir,"Sawai Mansingh Stadium, Jaipur",Bruce Oxenford,Rod Tucker
+408,2019,Sharjah,2019-05-18,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,A Nortje,Sharjah Cricket Stadium,S. Ravi,Rod Tucker
+409,2019,Mumbai,2019-04-07,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,normal,0,Punjab Kings,83,0,SA Yadav,"Brabourne Stadium, Mumbai",Bruce Oxenford,C.K. Nandan
+410,2019,Chennai,2019-04-25,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,82,0,RV Uthappa,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Virender Sharma
+411,2019,Hyderabad,2019-05-26,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,1,Kolkata Knight Riders,0,2,DP Conway,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Bruce Oxenford,K.N. Ananthapadmanabhan
+412,2019,Delhi,2019-05-21,Punjab Kings,Delhi Capitals,Punjab Kings,bat,normal,0,Punjab Kings,20,0,UT Yadav,"Feroz Shah Kotla, Delhi",Bruce Oxenford,S. Ravi
+413,2019,Chennai,2019-04-09,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,99,0,DP Conway,"MA Chidambaram Stadium, Chennai",S. Ravi,K.N. Ananthapadmanabhan
+414,2019,Hyderabad,2019-04-16,Punjab Kings,Mumbai Indians,Punjab Kings,bat,normal,1,Mumbai Indians,0,3,A Nortje,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Rod Tucker
+415,2019,Delhi,2019-05-02,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,19,0,UT Yadav,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,Rod Tucker
+416,2019,Jaipur,2019-05-01,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,MM Ali,"Sawai Mansingh Stadium, Jaipur",Virender Sharma,S. Ravi
+417,2019,Delhi,2019-04-03,Punjab Kings,Delhi Capitals,Punjab Kings,field,normal,0,Delhi Capitals,61,0,MJ McClenaghan,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,K.N. Ananthapadmanabhan
+418,2019,Mumbai,2019-04-18,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,35,0,PP Shaw,"Wankhede Stadium, Mumbai",Virender Sharma,Sundaram Ravi
+419,2019,Delhi,2019-05-22,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,R Ashwin,"Feroz Shah Kotla, Delhi",Sundaram Ravi,Paul Reiffel
+420,2019,Delhi,2019-05-26,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,RD Gaikwad,"Arun Jaitley Stadium, Delhi",Virender Sharma,S. Ravi
+421,2020,Sharjah,2020-05-29,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,99,0,JM Bairstow,Sharjah Cricket Stadium,Anil Chaudhary,Virender Sharma
+422,2020,Hyderabad,2020-04-08,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,95,0,SV Samson,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,S. Ravi
+423,2020,Mohali,2020-05-11,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Chennai Super Kings,11,0,UT Yadav,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Paul Reiffel
+424,2020,Hyderabad,2020-05-09,Rajasthan Royals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,8,RA Jadeja,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,Paul Reiffel
+425,2020,Delhi,2020-04-01,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians,13,0,AM Rahane,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Anil Chaudhary
+426,2020,Mohali,2020-05-22,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Mumbai Indians,21,0,S Dhawan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Paul Reiffel,Sundaram Ravi
+427,2020,Jaipur,2020-05-11,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,1,0,MM Patel,"Sawai Mansingh Stadium, Jaipur",K.N. Ananthapadmanabhan,Bruce Oxenford
+428,2020,Mumbai,2020-05-19,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,tie,0,,0,0,DJ Bravo,"Wankhede Stadium, Mumbai",S. Ravi,Paul Reiffel
+429,2020,Mohali,2020-04-12,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,91,0,MK Pandey,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,C.K. Nandan
+430,2020,Kolkata,2020-04-27,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,0,9,SA Yadav,"Eden Gardens, Kolkata",Rod Tucker,Anil Chaudhary
+431,2020,Bangalore,2020-05-27,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,43,0,RG Sharma,"M. Chinnaswamy Stadium, Bangalore",C.K. Nandan,Anil Chaudhary
+432,2020,Delhi,2020-05-12,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,7,0,SV Samson,"Feroz Shah Kotla, Delhi",C.K. Nandan,Nitin Menon
+433,2020,Sharjah,2020-05-03,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,81,0,RD Gaikwad,Sharjah Cricket Stadium,Paul Reiffel,Rod Tucker
+434,2020,Mumbai,2020-04-03,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,52,0,KA Pollard,"Brabourne Stadium, Mumbai",S. Ravi,Sundaram Ravi
+435,2020,Sharjah,2020-05-21,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Punjab Kings,58,0,MJ McClenaghan,Sharjah Cricket Stadium,Anil Chaudhary,Rod Tucker
+436,2020,Bangalore,2020-05-28,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,KA Pollard,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,K.N. Ananthapadmanabhan
+437,2020,Mohali,2020-05-25,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,14,0,DJ Bravo,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,Bruce Oxenford
+438,2020,Mumbai,2020-04-06,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,52,0,A Nortje,"Brabourne Stadium, Mumbai",C.K. Nandan,Rod Tucker
+439,2020,Mohali,2020-04-22,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,B Kumar,"Punjab Cricket Association Stadium, Mohali",C.K. Nandan,Bruce Oxenford
+440,2020,Jaipur,2020-04-26,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,G Gambhir,"Sawai Mansingh Stadium, Jaipur",C.K. Nandan,Nitin Menon
+441,2020,Hyderabad,2020-05-20,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,MM Ali,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,C.K. Nandan
+442,2020,Mohali,2020-05-12,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,SR Watson,"Punjab Cricket Association Stadium, Mohali",Rod Tucker,Paul Reiffel
+443,2020,Kolkata,2020-04-24,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,60,0,B Kumar,"Eden Gardens, Kolkata",Sundaram Ravi,K.N. Ananthapadmanabhan
+444,2020,Mumbai,2020-04-16,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,8,0,DJ Bravo,"Brabourne Stadium, Mumbai",Bruce Oxenford,C.K. Nandan
+445,2020,Mumbai,2020-04-19,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,1,Harbhajan Singh,"Brabourne Stadium, Mumbai",C.K. Nandan,Anil Chaudhary
+446,2020,Delhi,2020-05-08,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,12,0,SK Raina,"Feroz Shah Kotla, Delhi",S. Ravi,K.N. Ananthapadmanabhan
+447,2020,Hyderabad,2020-05-09,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,1,Punjab Kings,61,0,B Stokes,"Rajiv Gandhi International Cricket Stadium, Hyderabad",C.K. Nandan,S. Ravi
+448,2020,Mohali,2020-05-24,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Delhi Capitals,0,1,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,C.K. Nandan
+449,2020,Delhi,2020-04-06,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,2,RA Jadeja,"Arun Jaitley Stadium, Delhi",Anil Chaudhary,Paul Reiffel
+450,2020,Chennai,2020-05-10,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,95,0,SK Raina,"MA Chidambaram Stadium, Chennai",Paul Reiffel,Virender Sharma
+451,2020,Chennai,2020-04-13,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Punjab Kings,94,0,JJ Bumrah,"MA Chidambaram Stadium, Chennai",Bruce Oxenford,Nitin Menon
+452,2020,Mumbai,2020-04-23,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,normal,0,Punjab Kings,22,0,SP Narine,"Brabourne Stadium, Mumbai",Sundaram Ravi,Virender Sharma
+453,2020,Mohali,2020-04-11,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,R Ashwin,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,K.N. Ananthapadmanabhan
+454,2020,Mumbai,2020-05-12,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,9,AB de Villiers,"Brabourne Stadium, Mumbai",Sundaram Ravi,Anil Chaudhary
+455,2020,Jaipur,2020-05-02,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders,0,5,P Kumar,"Sawai Mansingh Stadium, Jaipur",C.K. Nandan,Rod Tucker
+456,2021,Mumbai,2021-04-06,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,SV Samson,"Wankhede Stadium, Mumbai",K.N. Ananthapadmanabhan,Rod Tucker
+457,2021,Mohali,2021-04-06,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,47,0,DA Warner,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Virender Sharma
+458,2021,Mumbai,2021-04-25,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,17,0,Harbhajan Singh,"Brabourne Stadium, Mumbai",Paul Reiffel,Anil Chaudhary
+459,2021,Mumbai,2021-05-27,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,62,0,Q de Kock,"Wankhede Stadium, Mumbai",Virender Sharma,Nitin Menon
+460,2021,Delhi,2021-05-15,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,55,0,AD Russell,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,S. Ravi
+461,2021,Mohali,2021-04-18,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,2,SA Yadav,"Punjab Cricket Association Stadium, Mohali",K.N. Ananthapadmanabhan,Bruce Oxenford
+462,2021,Kolkata,2021-04-13,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,45,0,P Kumar,"Eden Gardens, Kolkata",Bruce Oxenford,Nitin Menon
+463,2021,Sharjah,2021-05-21,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,80,0,YS Chahal,Sharjah Cricket Stadium,C.K. Nandan,Virender Sharma
+464,2021,Mumbai,2021-05-13,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,1,0,B Stokes,"Brabourne Stadium, Mumbai",Paul Reiffel,Anil Chaudhary
+465,2021,Kolkata,2021-05-26,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,10,0,AD Russell,"Eden Gardens, Kolkata",S. Ravi,Sundaram Ravi
+466,2021,Mohali,2021-04-19,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,0,2,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",S. Ravi,Anil Chaudhary
+467,2021,Hyderabad,2021-04-05,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,normal,0,Kolkata Knight Riders,43,0,A Nortje,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rod Tucker,C.K. Nandan
+468,2021,Bangalore,2021-04-27,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Rajasthan Royals,86,0,CH Gayle,"M. Chinnaswamy Stadium, Bangalore",Paul Reiffel,Nitin Menon
+469,2021,Mohali,2021-05-20,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,48,0,UT Yadav,"Punjab Cricket Association Stadium, Mohali",Rod Tucker,Bruce Oxenford
+470,2021,Mohali,2021-05-24,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,9,MK Pandey,"Punjab Cricket Association Stadium, Mohali",Nitin Menon,K.N. Ananthapadmanabhan
+471,2021,Chennai,2021-05-27,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,26,0,DJ Bravo,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Paul Reiffel
+472,2021,Mohali,2021-05-02,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,23,0,MS Dhoni,"Punjab Cricket Association Stadium, Mohali",C.K. Nandan,Virender Sharma
+473,2021,Mohali,2021-04-17,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,2,JP Faulkner,"Punjab Cricket Association IS Bindra Stadium, Mohali",K.N. Ananthapadmanabhan,Rod Tucker
+474,2021,Kolkata,2021-04-09,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,0,4,RD Gaikwad,"Eden Gardens, Kolkata",Paul Reiffel,Rod Tucker
+475,2021,Jaipur,2021-05-28,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,2,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Paul Reiffel,Sundaram Ravi
+476,2021,Mohali,2021-05-30,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,B Kumar,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Nitin Menon
+477,2021,Mumbai,2021-05-29,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,1,Punjab Kings,6,0,DA Warner,"Wankhede Stadium, Mumbai",Nitin Menon,Virender Sharma
+478,2021,Mumbai,2021-05-02,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,0,0,JM Bairstow,"Brabourne Stadium, Mumbai",C.K. Nandan,Bruce Oxenford
+479,2021,Sharjah,2021-05-29,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,3,PP Shaw,Sharjah Cricket Stadium,Bruce Oxenford,C.K. Nandan
+480,2021,Mumbai,2021-04-07,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,90,0,DJ Bravo,"Wankhede Stadium, Mumbai",Paul Reiffel,K.N. Ananthapadmanabhan
+481,2021,Mohali,2021-05-07,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,37,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,Virender Sharma
+482,2021,Mohali,2021-05-24,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Punjab Kings,6,0,JP Faulkner,"Punjab Cricket Association Stadium, Mohali",C.K. Nandan,Nitin Menon
+483,2021,Bangalore,2021-04-04,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,3,0,R Ashwin,"M. Chinnaswamy Stadium, Bangalore",Nitin Menon,Bruce Oxenford
+484,2021,Mohali,2021-05-22,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,1,Delhi Capitals,58,0,T Natarajan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Virender Sharma,Sundaram Ravi
+485,2021,Mumbai,2021-04-14,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Punjab Kings,0,1,UT Yadav,"Brabourne Stadium, Mumbai",C.K. Nandan,Rod Tucker
+486,2021,Delhi,2021-05-28,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,99,0,RG Sharma,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,S. Ravi
+487,2021,Chennai,2021-05-21,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,JM Bairstow,"MA Chidambaram Stadium, Chennai",Bruce Oxenford,S. Ravi
+488,2021,Mohali,2021-05-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,2,SR Watson,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Rod Tucker
+489,2021,Sharjah,2021-04-16,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Delhi Capitals,16,0,G Gambhir,Sharjah Cricket Stadium,Paul Reiffel,C.K. Nandan
+490,2021,Mumbai,2021-04-25,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,3,MW Stoinis,"Wankhede Stadium, Mumbai",C.K. Nandan,Nitin Menon
+491,2022,Mohali,2022-04-24,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Sunrisers Hyderabad,0,6,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,Nitin Menon
+492,2022,Mohali,2022-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,1,Rajasthan Royals,0,7,AB de Villiers,"Punjab Cricket Association Stadium, Mohali",Rod Tucker,Sundaram Ravi
+493,2022,Mohali,2022-05-17,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,Sundaram Ravi
+494,2022,Mohali,2022-05-02,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Capitals,91,0,Mohammed Siraj,"Punjab Cricket Association Stadium, Mohali",S. Ravi,Paul Reiffel
+495,2022,Delhi,2022-05-16,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,P Kumar,"Feroz Shah Kotla, Delhi",Bruce Oxenford,C.K. Nandan
+496,2022,Jaipur,2022-05-09,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,94,0,SA Yadav,"Sawai Mansingh Stadium, Jaipur",S. Ravi,Anil Chaudhary
+497,2022,Mumbai,2022-04-15,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Chennai Super Kings,0,8,SP Narine,"Wankhede Stadium, Mumbai",Rod Tucker,Paul Reiffel
+498,2022,Mumbai,2022-04-03,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Punjab Kings,0,8,PP Shaw,"Wankhede Stadium, Mumbai",Bruce Oxenford,S. Ravi
+499,2022,Delhi,2022-04-21,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,8,B Stokes,"Feroz Shah Kotla, Delhi",Anil Chaudhary,C.K. Nandan
+500,2022,Sharjah,2022-05-07,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,8,SP Narine,Sharjah Cricket Stadium,Anil Chaudhary,Nitin Menon
+501,2022,Delhi,2022-05-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,87,0,G Gambhir,"Feroz Shah Kotla, Delhi",Virender Sharma,Paul Reiffel
+502,2022,Mumbai,2022-04-11,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,5,MJ McClenaghan,"Brabourne Stadium, Mumbai",Sundaram Ravi,Virender Sharma
+503,2022,Sharjah,2022-04-17,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Delhi Capitals,88,0,UT Yadav,Sharjah Cricket Stadium,Bruce Oxenford,Anil Chaudhary
+504,2022,Delhi,2022-05-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,20,0,Mohammed Siraj,"Feroz Shah Kotla, Delhi",Bruce Oxenford,Sundaram Ravi
+505,2022,Delhi,2022-04-15,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Chennai Super Kings,96,0,RD Gaikwad,"Feroz Shah Kotla, Delhi",C.K. Nandan,Bruce Oxenford
+506,2022,Mohali,2022-05-15,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,S Dhawan,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,S. Ravi
+507,2022,Chennai,2022-05-14,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,2,SV Samson,"MA Chidambaram Stadium, Chennai",Sundaram Ravi,Bruce Oxenford
+508,2022,Mohali,2022-04-23,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,0,3,AT Rayudu,"Punjab Cricket Association IS Bindra Stadium, Mohali",Anil Chaudhary,Nitin Menon
+509,2022,Mohali,2022-05-24,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,1,Mumbai Indians,97,0,RG Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",Paul Reiffel,Rod Tucker
+510,2022,Bangalore,2022-04-28,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,40,0,B Kumar,"M. Chinnaswamy Stadium, Bangalore",Virender Sharma,Paul Reiffel
+511,2022,Delhi,2022-05-07,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,51,0,A Nortje,"Feroz Shah Kotla, Delhi",K.N. Ananthapadmanabhan,S. Ravi
+512,2022,Mohali,2022-04-08,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,52,0,SK Raina,"Punjab Cricket Association Stadium, Mohali",Virender Sharma,Paul Reiffel
+513,2022,Bangalore,2022-04-10,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,1,Sunrisers Hyderabad,0,6,V Kohli,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,Virender Sharma
+514,2022,Chennai,2022-05-25,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,0,5,Mohammed Siraj,"MA Chidambaram Stadium, Chennai",Virender Sharma,Rod Tucker
+515,2022,Mohali,2022-05-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,0,6,Harbhajan Singh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sundaram Ravi,S. Ravi
+516,2022,Hyderabad,2022-04-16,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Capitals,67,0,MW Stoinis,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,K.N. Ananthapadmanabhan
+517,2022,Hyderabad,2022-05-15,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,S Dhawan,"Rajiv Gandhi International Cricket Stadium, Hyderabad",S. Ravi,Rod Tucker
+518,2022,Hyderabad,2022-04-25,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians,86,0,AT Rayudu,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,Bruce Oxenford
+519,2022,Mumbai,2022-05-28,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,P Kumar,"Brabourne Stadium, Mumbai",Virender Sharma,Nitin Menon
+520,2022,Mohali,2022-05-12,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,6,0,JM Bairstow,"Punjab Cricket Association IS Bindra Stadium, Mohali",Paul Reiffel,K.N. Ananthapadmanabhan
+521,2022,Sharjah,2022-05-11,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,48,0,Q de Kock,Sharjah Cricket Stadium,Nitin Menon,C.K. Nandan
+522,2022,Delhi,2022-05-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,0,9,YS Chahal,"Feroz Shah Kotla, Delhi",K.N. Ananthapadmanabhan,Anil Chaudhary
+523,2022,Delhi,2022-05-09,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,,0,0,P Kumar,"Feroz Shah Kotla, Delhi",C.K. Nandan,Anil Chaudhary
+524,2022,Mumbai,2022-05-28,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Punjab Kings,0,5,MM Patel,"Brabourne Stadium, Mumbai",Anil Chaudhary,S. Ravi
+525,2022,Hyderabad,2022-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,86,0,SR Watson,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Paul Reiffel
+526,2023,Bangalore,2023-05-21,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,UT Yadav,"M. Chinnaswamy Stadium, Bangalore",Rod Tucker,S. Ravi
+527,2023,Chennai,2023-05-04,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,DJ Bravo,"MA Chidambaram Stadium, Chennai",C.K. Nandan,Rod Tucker
+528,2023,Mumbai,2023-04-19,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,71,0,RD Gaikwad,"Brabourne Stadium, Mumbai",Bruce Oxenford,Nitin Menon
+529,2023,Kolkata,2023-04-22,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Punjab Kings,0,3,RD Gaikwad,"Eden Gardens, Kolkata",Nitin Menon,Virender Sharma
+530,2023,Mohali,2023-05-25,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,88,0,DJ Bravo,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,Nitin Menon
+531,2023,Delhi,2023-05-04,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,1,S Dhawan,"Feroz Shah Kotla, Delhi",Virender Sharma,Sundaram Ravi
+532,2023,Mohali,2023-05-24,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,DP Conway,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,Paul Reiffel
+533,2023,Mumbai,2023-04-02,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,3,B Stokes,"Wankhede Stadium, Mumbai",Bruce Oxenford,Nitin Menon
+534,2023,Bangalore,2023-05-09,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,68,0,DP Conway,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,C.K. Nandan
+535,2023,Mumbai,2023-05-30,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,RG Sharma,"Brabourne Stadium, Mumbai",Rod Tucker,K.N. Ananthapadmanabhan
+536,2023,Mohali,2023-05-12,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,0,1,P Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali",Virender Sharma,Sundaram Ravi
+537,2023,Mumbai,2023-04-24,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,3,G Gambhir,"Wankhede Stadium, Mumbai",Paul Reiffel,K.N. Ananthapadmanabhan
+538,2023,Chennai,2023-04-13,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,MK Pandey,"MA Chidambaram Stadium, Chennai",Sundaram Ravi,Bruce Oxenford
+539,2023,Sharjah,2023-04-03,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,32,0,T Natarajan,Sharjah Cricket Stadium,Sundaram Ravi,Nitin Menon
+540,2023,Chennai,2023-04-04,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Punjab Kings,0,3,MM Ali,"MA Chidambaram Stadium, Chennai",Anil Chaudhary,Nitin Menon
+541,2023,Bangalore,2023-05-14,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians,37,0,Q de Kock,"M. Chinnaswamy Stadium, Bangalore",Virender Sharma,Nitin Menon
+542,2023,Mumbai,2023-04-26,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Punjab Kings,0,8,SV Samson,"Wankhede Stadium, Mumbai",C.K. Nandan,S. Ravi
+543,2023,Jaipur,2023-04-16,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,0,9,AD Russell,"Sawai Mansingh Stadium, Jaipur",S. Ravi,K.N. Ananthapadmanabhan
+544,2023,Bangalore,2023-04-18,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,33,0,B Stokes,"M. Chinnaswamy Stadium, Bangalore",Sundaram Ravi,S. Ravi
+545,2023,Sharjah,2023-05-13,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,UT Yadav,Sharjah Cricket Stadium,Nitin Menon,Sundaram Ravi
+546,2023,Delhi,2023-04-17,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Rajasthan Royals,29,0,R Ashwin,"Feroz Shah Kotla, Delhi",Rod Tucker,Bruce Oxenford
+547,2023,Mumbai,2023-04-25,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,normal,0,Delhi Capitals,55,0,RD Gaikwad,"Wankhede Stadium, Mumbai",Paul Reiffel,Virender Sharma
+548,2023,Delhi,2023-05-09,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,MM Patel,"Arun Jaitley Stadium, Delhi",Bruce Oxenford,Nitin Menon
+549,2023,Bangalore,2023-05-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,53,0,JJ Bumrah,"M. Chinnaswamy Stadium, Bangalore",K.N. Ananthapadmanabhan,C.K. Nandan
+550,2023,Mohali,2023-04-24,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,21,0,DP Conway,"Punjab Cricket Association Stadium, Mohali",Paul Reiffel,K.N. Ananthapadmanabhan
+551,2023,Delhi,2023-05-18,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,PP Shaw,"Feroz Shah Kotla, Delhi",Virender Sharma,Nitin Menon
+552,2023,Mumbai,2023-05-27,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Punjab Kings,0,6,Q de Kock,"Brabourne Stadium, Mumbai",S. Ravi,Bruce Oxenford
+553,2023,Mumbai,2023-04-08,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,31,0,MM Patel,"Brabourne Stadium, Mumbai",S. Ravi,Virender Sharma
+554,2023,Kolkata,2023-05-21,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,60,0,KA Pollard,"Eden Gardens, Kolkata",C.K. Nandan,Bruce Oxenford
+555,2023,Delhi,2023-04-24,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Delhi Capitals,53,0,RA Jadeja,"Arun Jaitley Stadium, Delhi",Paul Reiffel,Bruce Oxenford
+556,2023,Hyderabad,2023-05-09,Rajasthan Royals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,6,Q de Kock,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Nitin Menon,Anil Chaudhary
+557,2023,Hyderabad,2023-04-17,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Delhi Capitals,44,0,B Stokes,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Virender Sharma,C.K. Nandan
+558,2023,Chennai,2023-05-22,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Rajasthan Royals,67,0,RA Jadeja,"MA Chidambaram Stadium, Chennai",Rod Tucker,Nitin Menon
+559,2023,Mumbai,2023-04-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,PP Shaw,"Brabourne Stadium, Mumbai",S. Ravi,Sundaram Ravi
+560,2023,Kolkata,2023-05-14,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,6,MM Patel,"Eden Gardens, Kolkata",Rod Tucker,C.K. Nandan
